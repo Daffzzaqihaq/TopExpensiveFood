@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Top ExpensiveFood</string>
+
+    <string-array name="name">
+        <item>Kaviar Almas</item>
+        <item>Melon Yubaki</item>
+        <item>Sup sarang burung</item>
+        <item>Tuna sirip biru</item>
+        <item>Truffle Hitam</item>
+        <item>Kentang La Bonotte</item>
+        <item>Jamur Matsutake</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>Kaviar memang identik akan kemewahan. Bukan karena rasanya yang enak, tapi memang sulit untuk didapatkan. Meskipun berasal dari Iran, Kaviar akan sulit ditemukan di negara tersebut. Mencari Kaviar di negeri asalnya sendiri sama halnya mencari jarum di tumpukkan jerami.
+
+Beberapa orang yang ingin mencobanya justru banyak yang mencari di London. Hanya saja, harga Kaviar di sana sangatlah fantastis. Selain karena kelangkannya, yang membuat Kaviar itu mahal juga berasal dari kemasannya yang terbuat dari emas 24 karat. Biasanya harga yang ditawarkan untuk Kaviar di London sekitar 325 Juta Rupiah. Gimana, tertarik buat mencoba?</item>
+        <item>Melon ini memang hasil dari modifikasi genetik. Memiliki tekstur lembut dan manis juga berwarna kuning menyala, Melon Yubari bisa kamu makan dengan harga Rp 65.000.000/ potong. Meskipun mahal, tapi melon ini memang banyak sekali peminatnya karena mereka menganggap rasa dari melon tersebut sangat berkesan.
+
+Biasanya yang membeli melon mewah ini adalah para pengusaha yang merasa penasaran. Dalam pelelangan, buah satu ini bahkan bisa terjual sampai Rp 299 Juta/buah.</item>
+        <item>Hidangan Cina disajikan dalam bentuk sup yang terbuat dari air liur burung. Dipercaya memiliki khasiat bagi kesehatan, sup ini sendiri disajikan dalam tiga warna: merah, putih dan kuning. Sarang burung sebagai bahan baku didapat dari peternakan di Asia Tenggara dan dijual dengan harga yang mengejutkan.
+
+Orang-orang mengatakan kalau rasanya langka tapi lezat, dan tidak pernah dirasakan oleh lidahmu. Sup merah sendiri dibanderol dengan harga 130 Juta rupiah per mangkuk.</item>
+        <item>Tidak seperti tuna biasa, tuna sirip biru ini memiliki tekstur dagi yang lebih merah dan tampak memuaskan. Beberapa negara sudah memasang peringatan kalau spesies ini nyaris punah dan mengurangi jumlah penangkapannya. Karena kelangkaan itulah tuna ini dihargai sekitar 52 juta per onsnya.</item>
+        <item>Truffle hitam memang paling banyak ditemukan di Prancis. Setelah truffle putih, jamur ini dianggap sebagai truffle termahal yang bisa kamu makan. Disajikan sebagai barang mewah di restoran top, rasanya sendiri memang dikenal sangat enak dan menyehatkan. Untuk bisa menikmati jamur truffle hitam ini kamu harus mengeluarkan uang sekitar 22 juta per onsnya.
+
+</item>
+        <item>Percaya nggak sih kalau ini hanya sebuah kentang? Yap! ini memang kentang tapi bukan kentang biasa. Bukan hanya rasanya yang 'katanya' sangat enak, kentang ini juga merupakan benda langka di Noirmoutier, Perancis.
+
+Di seluruh Eropa, permintaan untuk kentang ini terus meningkat dan orang dapat menemukan di pasar-pasar swalayan dengan harga fantastis. Satu kilo kentang La Bonnotte ini bisa menghabiskan biaya hingga 21 juta rupiah.</item>
+        <item>Satu lagi makanan yang mahal karena keberadaannya yang langka, jamur ini juga memiliki harga fantastis terkait keberaannya yang terancam punah. Sebelum benar-benar punah dan tidak ada lagi, para gastronom berlomba-lomba untuk mencicipi jamur ini.
+
+Setelah mencobanya, mereka hanya bisa berdecak kagum karena jamur itu memang sangatlah lezat. Biasanya, untuk mencicipi jamur ini orang-orang harus merogoh kocek sampai 13 juta rupiah per porsi. Biasanya jamur ini ada di negara-negara yang jadi pemasok khusus seperti Cina, Finlandia, Kanada, Jepang, Swedia dan Korea.</item>
+    </string-array>
+</resources>
